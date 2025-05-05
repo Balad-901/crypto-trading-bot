@@ -1,0 +1,12 @@
+{
+    "avg_sentiment": {
+        "twitter": 0.1,
+        "reddit": 0.05,
+        "news": 0.02
+    },
+    "volatility": {
+        "twitter": 0.3,
+        "reddit": 0.2,
+        "news": 0.1
+    }
+}

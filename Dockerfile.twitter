@@ -1,0 +1,19 @@
+# Dockerfile.twitter
+
+FROM python:3.11-slim
+
+# Set working directory
+WORKDIR /app
+
+# Copy code
+COPY twitter_sentiment_service.py ./twitter_sentiment_service.py
+COPY sentiment/ ./sentiment/
+
+# Install requirements
+RUN pip install fastapi uvicorn openai
+
+# Expose port for API
+EXPOSE 8001
+
+# Run the app
+CMD ["python", "twitter_sentiment_service.py"]

@@ -1,0 +1,12 @@
+[
+  {"entry": 28000, "exit": 28900, "size": 100, "pnl": 3.2, "return_percent": 3.2, "result": "win"},
+  {"entry": 28900, "exit": 28400, "size": 100, "pnl": -1.73, "return_percent": -1.73, "result": "loss"},
+  {"entry": 28400, "exit": 29000, "size": 100, "pnl": 2.11, "return_percent": 2.11, "result": "win"},
+  {"entry": 29000, "exit": 28700, "size": 100, "pnl": -1.03, "return_percent": -1.03, "result": "loss"},
+  {"entry": 28700, "exit": 30000, "size": 100, "pnl": 4.53, "return_percent": 4.53, "result": "win"},
+  {"entry": 30000, "exit": 29500, "size": 100, "pnl": -1.67, "return_percent": -1.67, "result": "loss"},
+  {"entry": 29500, "exit": 31000, "size": 100, "pnl": 5.08, "return_percent": 5.08, "result": "win"},
+  {"entry": 31000, "exit": 31200, "size": 100, "pnl": 0.64, "return_percent": 0.64, "result": "win"},
+  {"entry": 31200, "exit": 30800, "size": 100, "pnl": -1.28, "return_percent": -1.28, "result": "loss"},
+  {"entry": 30800, "exit": 32000, "size": 100, "pnl": 3.9, "return_percent": 3.9, "result": "win"}
+]

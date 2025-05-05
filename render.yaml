@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: crypto-bot-api
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: bash start.sh
+    envVars:
+      - key: BINANCE_API_KEY
+        value: GpuiN9zV0AiQ0DQ8gRuBTJDzSTEIsfChgo3B6wGaWFpE9ohG5kwRcF9QIoBj7HEZ
+      - key: BINANCE_API_SECRET
+        value: sqCPZzRz18ChAXHMva5xraXYQEk2a9W5Day89V3FcZxZkZcI3uJiIgkLj6ke5Dud

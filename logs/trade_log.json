@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2025-04-30T18:30:28.002446",
+    "symbol": "BTC",
+    "timeframe": "15m",
+    "decision": "buy",
+    "reason": "Strong positive sentiment (5) from 20 news + 20 tweets + 20 reddit posts"
+  },
+  {
+    "timestamp": "2025-05-01T15:32:07.503534",
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "decision": "hold",
+    "reason": "Neutral sentiment (0) from 0 news + 0 tweets + 20 reddit posts"
+  },
+  {
+    "timestamp": "2025-05-01T15:38:55.864327",
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "decision": "hold",
+    "reason": null
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "decision": "hold",
+    "score": 0,
+    "confidence": 0,
+    "details": {
+      "news": {
+        "score": 0,
+        "count": 0
+      },
+      "twitter": {
+        "score": 0,
+        "count": 0
+      },
+      "reddit": {
+        "score": 0,
+        "count": 20
+      }
+    },
+    "timestamp": "2025-05-01T16:23:11.120000",
+    "result": "loss"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "decision": "hold",
+    "score": 0,
+    "confidence": 0,
+    "details": {
+      "news": {
+        "score": 0,
+        "count": 0,
+        "articles": []
+      },
+      "twitter": {
+        "score": 0,
+        "count": 0,
+        "tweets": []
+      },
+      "reddit": {
+        "score": 0,
+        "count": 20,
+        "posts": [
+          "bitcoin and ethereum forecasts for the following 54 hours (now = 2025-04-29 16:47 utc+2 paris time fr)",
+          "\ud83e\ude99\ud83d\udd2e time to win! predict the $btc daily close!",
+          "the trading game after ai bots took over. im still human.",
+          "mlcryptoforecaster : new crypto assets forecaster with machine learning with 80 to 90% accuracy !",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt sell scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "is this a bug or a feature? replay mode for 1w timeframe on free plan",
+          "machine learning ichimoku scanner results for today",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "new machine learning algorithm based on ichimoku",
+          "platform to track oi?",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "kick-start your order book analysis journey with ai and binance: a beginner's guide",
+          "\"\ud83d\udd25 stake btc/usdt for 1.6b bul points + 100 usdt bonus! \ud83d\ude80\"",
+          "\ud83d\udea8 unusual market activity detected!",
+          "\ud83e\ude99\ud83d\udd2e another day, predict the $btc daily close!",
+          "ai-driven perpetual crypto trading made easy",
+          "\ud83e\ude99\ud83d\udd2e new chance, predict the $btc daily close!"
+        ]
+      }
+    },
+    "timestamp": "2025-05-01T16:52:37.806891"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "decision": "hold",
+    "score": 0,
+    "confidence": 0,
+    "details": {
+      "news": {
+        "score": 0,
+        "count": 0,
+        "articles": []
+      },
+      "twitter": {
+        "score": 0,
+        "count": 0,
+        "tweets": []
+      },
+      "reddit": {
+        "score": 0,
+        "count": 20,
+        "posts": [
+          "bitcoin and ethereum forecasts for the following 54 hours (now = 2025-04-29 16:47 utc+2 paris time fr)",
+          "\ud83e\ude99\ud83d\udd2e time to win! predict the $btc daily close!",
+          "the trading game after ai bots took over. im still human.",
+          "mlcryptoforecaster : new crypto assets forecaster with machine learning with 80 to 90% accuracy !",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt sell scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "is this a bug or a feature? replay mode for 1w timeframe on free plan",
+          "machine learning ichimoku scanner results for today",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "new machine learning algorithm based on ichimoku",
+          "platform to track oi?",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "kick-start your order book analysis journey with ai and binance: a beginner's guide",
+          "\"\ud83d\udd25 stake btc/usdt for 1.6b bul points + 100 usdt bonus! \ud83d\ude80\"",
+          "\ud83d\udea8 unusual market activity detected!",
+          "\ud83e\ude99\ud83d\udd2e another day, predict the $btc daily close!",
+          "ai-driven perpetual crypto trading made easy",
+          "\ud83e\ude99\ud83d\udd2e new chance, predict the $btc daily close!"
+        ]
+      }
+    },
+    "timestamp": "2025-05-01T16:54:44.216247"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "decision": "hold",
+    "score": 0,
+    "confidence": 0,
+    "details": {
+      "news": {
+        "score": 0,
+        "count": 0,
+        "articles": []
+      },
+      "twitter": {
+        "score": 0,
+        "count": 0,
+        "tweets": []
+      },
+      "reddit": {
+        "score": 0,
+        "count": 20,
+        "posts": [
+          "bitcoin and ethereum forecasts for the following 54 hours (now = 2025-04-29 16:47 utc+2 paris time fr)",
+          "\ud83e\ude99\ud83d\udd2e time to win! predict the $btc daily close!",
+          "the trading game after ai bots took over. im still human.",
+          "mlcryptoforecaster : new crypto assets forecaster with machine learning with 80 to 90% accuracy !",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt sell scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "is this a bug or a feature? replay mode for 1w timeframe on free plan",
+          "machine learning ichimoku scanner results for today",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "new machine learning algorithm based on ichimoku",
+          "platform to track oi?",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "kick-start your order book analysis journey with ai and binance: a beginner's guide",
+          "\"\ud83d\udd25 stake btc/usdt for 1.6b bul points + 100 usdt bonus! \ud83d\ude80\"",
+          "\ud83d\udea8 unusual market activity detected!",
+          "\ud83e\ude99\ud83d\udd2e another day, predict the $btc daily close!",
+          "ai-driven perpetual crypto trading made easy",
+          "\ud83e\ude99\ud83d\udd2e new chance, predict the $btc daily close!"
+        ]
+      }
+    },
+    "timestamp": "2025-05-01T17:00:30.604820"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "decision": "hold",
+    "score": 0,
+    "confidence": 0,
+    "details": {
+      "news": {
+        "score": 0,
+        "count": 0,
+        "articles": []
+      },
+      "twitter": {
+        "score": 0,
+        "count": 0,
+        "tweets": []
+      },
+      "reddit": {
+        "score": 0,
+        "count": 20,
+        "posts": [
+          "bitcoin and ethereum forecasts for the following 54 hours (now = 2025-04-29 16:47 utc+2 paris time fr)",
+          "\ud83e\ude99\ud83d\udd2e time to win! predict the $btc daily close!",
+          "the trading game after ai bots took over. im still human.",
+          "mlcryptoforecaster : new crypto assets forecaster with machine learning with 80 to 90% accuracy !",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt sell scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "is this a bug or a feature? replay mode for 1w timeframe on free plan",
+          "machine learning ichimoku scanner results for today",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "new machine learning algorithm based on ichimoku",
+          "platform to track oi?",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "kick-start your order book analysis journey with ai and binance: a beginner's guide",
+          "\"\ud83d\udd25 stake btc/usdt for 1.6b bul points + 100 usdt bonus! \ud83d\ude80\"",
+          "\ud83d\udea8 unusual market activity detected!",
+          "\ud83e\ude99\ud83d\udd2e another day, predict the $btc daily close!",
+          "ai-driven perpetual crypto trading made easy",
+          "\ud83e\ude99\ud83d\udd2e new chance, predict the $btc daily close!"
+        ]
+      }
+    },
+    "timestamp": "2025-05-01T17:04:55.028752"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "decision": "hold",
+    "score": 0,
+    "confidence": 0,
+    "details": {
+      "news": {
+        "score": 0,
+        "count": 0,
+        "articles": []
+      },
+      "twitter": {
+        "score": 0,
+        "count": 0
+      },
+      "reddit": {
+        "score": 0,
+        "count": 20,
+        "posts": [
+          "bitcoin and ethereum forecasts for the following 54 hours (now = 2025-04-29 16:47 utc+2 paris time fr)",
+          "\ud83e\ude99\ud83d\udd2e time to win! predict the $btc daily close!",
+          "the trading game after ai bots took over. im still human.",
+          "mlcryptoforecaster : new crypto assets forecaster with machine learning with 80 to 90% accuracy !",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt sell scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "is this a bug or a feature? replay mode for 1w timeframe on free plan",
+          "machine learning ichimoku scanner results for today",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "new machine learning algorithm based on ichimoku",
+          "platform to track oi?",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "kick-start your order book analysis journey with ai and binance: a beginner's guide",
+          "\"\ud83d\udd25 stake btc/usdt for 1.6b bul points + 100 usdt bonus! \ud83d\ude80\"",
+          "\ud83d\udea8 unusual market activity detected!",
+          "\ud83e\ude99\ud83d\udd2e another day, predict the $btc daily close!",
+          "ai-driven perpetual crypto trading made easy",
+          "\ud83e\ude99\ud83d\udd2e new chance, predict the $btc daily close!"
+        ]
+      }
+    },
+    "timestamp": "2025-05-01T17:39:10.370864"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "decision": "hold",
+    "score": 0,
+    "confidence": 0,
+    "details": {
+      "news": {
+        "score": 0,
+        "count": 0,
+        "articles": []
+      },
+      "twitter": {
+        "score": 0,
+        "count": 0
+      },
+      "reddit": {
+        "score": 0,
+        "count": 20,
+        "posts": [
+          "bitcoin and ethereum forecasts for the following 54 hours (now = 2025-04-29 16:47 utc+2 paris time fr)",
+          "\ud83e\ude99\ud83d\udd2e time to win! predict the $btc daily close!",
+          "the trading game after ai bots took over. im still human.",
+          "mlcryptoforecaster : new crypto assets forecaster with machine learning with 80 to 90% accuracy !",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt sell scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "is this a bug or a feature? replay mode for 1w timeframe on free plan",
+          "machine learning ichimoku scanner results for today",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "new machine learning algorithm based on ichimoku",
+          "platform to track oi?",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "kick-start your order book analysis journey with ai and binance: a beginner's guide",
+          "\"\ud83d\udd25 stake btc/usdt for 1.6b bul points + 100 usdt bonus! \ud83d\ude80\"",
+          "\ud83d\udea8 unusual market activity detected!",
+          "\ud83e\ude99\ud83d\udd2e another day, predict the $btc daily close!",
+          "ai-driven perpetual crypto trading made easy",
+          "\ud83e\ude99\ud83d\udd2e new chance, predict the $btc daily close!"
+        ]
+      }
+    },
+    "timestamp": "2025-05-01T17:54:09.915098"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "decision": "hold",
+    "score": 0,
+    "confidence": 0,
+    "details": {
+      "news": {
+        "score": 0,
+        "count": 0,
+        "articles": []
+      },
+      "twitter": {
+        "score": 0,
+        "count": 0
+      },
+      "reddit": {
+        "score": 0,
+        "count": 20,
+        "posts": [
+          "bitcoin and ethereum forecasts for the following 54 hours (now = 2025-04-29 16:47 utc+2 paris time fr)",
+          "\ud83e\ude99\ud83d\udd2e time to win! predict the $btc daily close!",
+          "the trading game after ai bots took over. im still human.",
+          "mlcryptoforecaster : new crypto assets forecaster with machine learning with 80 to 90% accuracy !",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt sell scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "is this a bug or a feature? replay mode for 1w timeframe on free plan",
+          "machine learning ichimoku scanner results for today",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "new machine learning algorithm based on ichimoku",
+          "platform to track oi?",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "kick-start your order book analysis journey with ai and binance: a beginner's guide",
+          "\"\ud83d\udd25 stake btc/usdt for 1.6b bul points + 100 usdt bonus! \ud83d\ude80\"",
+          "\ud83d\udea8 unusual market activity detected!",
+          "\ud83e\ude99\ud83d\udd2e another day, predict the $btc daily close!",
+          "ai-driven perpetual crypto trading made easy",
+          "\ud83e\ude99\ud83d\udd2e new chance, predict the $btc daily close!"
+        ]
+      }
+    },
+    "timestamp": "2025-05-01T17:56:41.096551"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "timeframe": "1h",
+    "decision": "hold",
+    "score": 0,
+    "confidence": 0,
+    "details": {
+      "news": {
+        "score": 0,
+        "count": 0,
+        "articles": []
+      },
+      "twitter": {
+        "score": 0,
+        "count": 0
+      },
+      "reddit": {
+        "score": 0,
+        "count": 20,
+        "posts": [
+          "bitcoin and ethereum forecasts for the following 54 hours (now = 2025-04-29 16:47 utc+2 paris time fr)",
+          "\ud83e\ude99\ud83d\udd2e time to win! predict the $btc daily close!",
+          "the trading game after ai bots took over. im still human.",
+          "mlcryptoforecaster : new crypto assets forecaster with machine learning with 80 to 90% accuracy !",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt sell scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "is this a bug or a feature? replay mode for 1w timeframe on free plan",
+          "machine learning ichimoku scanner results for today",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "new machine learning algorithm based on ichimoku",
+          "platform to track oi?",
+          "btcusdt buy scalping signal \ud83d\ude80",
+          "kick-start your order book analysis journey with ai and binance: a beginner's guide",
+          "\"\ud83d\udd25 stake btc/usdt for 1.6b bul points + 100 usdt bonus! \ud83d\ude80\"",
+          "\ud83d\udea8 unusual market activity detected!",
+          "\ud83e\ude99\ud83d\udd2e another day, predict the $btc daily close!",
+          "ai-driven perpetual crypto trading made easy",
+          "\ud83e\ude99\ud83d\udd2e new chance, predict the $btc daily close!"
+        ]
+      }
+    },
+    "timestamp": "2025-05-01T18:04:40.273198"
+  }
+]

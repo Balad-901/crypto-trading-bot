@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>📊 Crypto Trading Dashboard</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #0e0e10;
+      color: #f0f0f0;
+    }
+
+    h1 {
+      color: #0ff;
+      text-align: center;
+      font-size: 2rem;
+    }
+
+    #status {
+      text-align: center;
+      margin: 10px 0;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      background: #181818;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 0 8px #000;
+    }
+
+    th, td {
+      padding: 12px 8px;
+      text-align: center;
+      font-size: 0.9rem;
+    }
+
+    th {
+      background-color: #222;
+      color: #0ff;
+    }
+
+    tr:nth-child(even) {
+      background-color: #111;
+    }
+
+    .buy {
+      color: #00ff7f;
+      font-weight: bold;
+    }
+
+    .sell {
+      color: #ff4f4f;
+      font-weight: bold;
+    }
+
+    .hold {
+      color: #ffa500;
+      font-weight: bold;
+    }
+
+    .badge {
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+
+    .trend-up {
+      background: #0f0;
+      color: #000;
+    }
+
+    .trend-down {
+      background: #f33;
+      color: #fff;
+    }
+
+    .neutral {
+      background: #444;
+      color: #ccc;
+    }
+
+    .confidence {
+      font-weight: bold;
+      font-size: 1rem;
+    }
+
+    .confidence::before {
+      content: '🔥';
+      margin-right: 4px;
+    }
+
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: #666;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🧠 Crypto AI Trading Dashboard</h1>
+  <div id="status">Loading latest decisions...</div>
+  <table id="decisionTable">
+    <thead>
+      <tr>
+        <th>🕒 Time</th>
+        <th>💰 Symbol</th>
+        <th>📢 Action</th>
+        <th>📊 Confidence</th>
+        <th>🏷️ Topic</th>
+        <th>👤 Influencers</th>
+        <th>📈 RSI</th>
+        <th>📉 Trend</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <div class="footer">
+    Built with 🧠 by your AI-powered crypto bot.
+  </div>
+
+  <script>
+    async function loadData() {
+      try {
+        const res = await fetch("/api/decisions");
+        const data = await res.json();
+        const table = document.querySelector("#decisionTable tbody");
+        table.innerHTML = "";
+
+        data.slice(-20).reverse().forEach(row => {
+          const rsi = row?.scores?.rsi ?? "";
+          const trend = row?.scores?.trend ?? "";
+          const trendClass = trend > 0 ? "trend-up" : trend < 0 ? "trend-down" : "neutral";
+          const trendSymbol = trend > 0 ? "↑ Up" : trend < 0 ? "↓ Down" : "→ Side";
+
+          const influencers = (row.influencers || []).join(", ");
+          const tr = document.createElement("tr");
+
+          tr.innerHTML = `
+            <td>${new Date(row.timestamp).toLocaleString()}</td>
+            <td>${row.symbol}</td>
+            <td class="${row.action.toLowerCase()}">${row.action}</td>
+            <td class="confidence">${row.confidence}</td>
+            <td>${row.topic}</td>
+            <td>${influencers}</td>
+            <td>${rsi}</td>
+            <td><span class="badge ${trendClass}">${trendSymbol}</span></td>
+          `;
+
+          table.appendChild(tr);
+        });
+
+        document.getElementById("status").textContent = `✅ Last updated: ${new Date().toLocaleTimeString()}`;
+      } catch (err) {
+        document.getElementById("status").textContent = "❌ Failed to load data.";
+        console.error(err);
+      }
+    }
+
+    loadData();
+    setInterval(loadData, 10000);
+  </script>
+</body>
+</html>

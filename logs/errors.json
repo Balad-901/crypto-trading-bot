@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-05-03T18:33:25.110840",
+    "data": {
+      "error": "'confidence'"
+    }
+  },
+  {
+    "timestamp": "2025-05-03T18:37:22.031993",
+    "data": {
+      "error": "unsupported operand type(s) for +: 'int' and 'dict'"
+    }
+  },
+  {
+    "timestamp": "2025-05-03T18:38:17.991203",
+    "data": {
+      "error": "unsupported operand type(s) for +: 'int' and 'dict'"
+    }
+  },
+  {
+    "timestamp": "2025-05-03T18:59:02.684408",
+    "data": {
+      "error": "unsupported operand type(s) for +: 'dict' and 'int'"
+    }
+  }
+]

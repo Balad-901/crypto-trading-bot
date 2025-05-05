@@ -1,0 +1,285 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "action": "hold",
+    "confidence": 0.0,
+    "timestamp": "2025-05-01T18:35:14.941812Z"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "action": "hold",
+    "confidence": 0.0,
+    "timestamp": "2025-05-01T18:45:59.748961Z"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "action": "hold",
+    "confidence": 0.0,
+    "timestamp": "2025-05-01T19:01:26.690491Z"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "action": "hold",
+    "confidence": 0.0,
+    "timestamp": "2025-05-01T19:01:44.097434Z"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "action": "hold",
+    "confidence": 0.0,
+    "timestamp": "2025-05-01T19:04:19.359155Z"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "action": "hold",
+    "confidence": 0.0,
+    "timestamp": "2025-05-01T19:08:24.690638Z"
+  },
+  {
+    "timestamp": "2025-05-01T19:12:55.819222Z",
+    "data": {
+      "symbol": "BTCUSDT",
+      "action": "hold",
+      "confidence": 0.0,
+      "entry_price": 29859.80700487,
+      "stop_loss": 29262.61,
+      "take_profit": 31352.8,
+      "position_size": 0.0,
+      "timestamp": "2025-05-01T19:12:55.819205Z"
+    }
+  },
+  {
+    "timestamp": "2025-05-01T19:14:19.118627Z",
+    "data": {
+      "symbol": "BTCUSDT",
+      "action": "hold",
+      "confidence": 0.0,
+      "entry_price": 25810.775934011024,
+      "stop_loss": 25294.56,
+      "take_profit": 27101.31,
+      "position_size": 0.0,
+      "timestamp": "2025-05-01T19:14:19.118618Z"
+    }
+  },
+  {
+    "timestamp": "2025-05-01T19:36:17.615553Z",
+    "data": {
+      "symbol": "BTCUSDT",
+      "action": "hold",
+      "confidence": 0.0,
+      "entry_price": 96665.99,
+      "stop_loss": 94732.67,
+      "take_profit": 101499.29,
+      "position_size": 0.0,
+      "timestamp": "2025-05-01T19:36:17.615546Z"
+    }
+  },
+  {
+    "timestamp": "2025-05-01T19:42:09.468264Z",
+    "data": {
+      "symbol": "BTCUSDT",
+      "action": "hold",
+      "confidence": 3.33,
+      "entry_price": 96556.32,
+      "stop_loss": 94625.19,
+      "take_profit": 101384.14,
+      "position_size": 3.33,
+      "timestamp": "2025-05-01T19:42:09.468258Z"
+    }
+  },
+  {
+    "timestamp": "2025-05-01T19:45:04.718135Z",
+    "data": {
+      "symbol": "BTCUSDT",
+      "action": "hold",
+      "confidence": 3.33,
+      "entry_price": 96513.06,
+      "stop_loss": 94582.8,
+      "take_profit": 101338.71,
+      "position_size": 3.33,
+      "timestamp": "2025-05-01T19:45:04.718104Z"
+    }
+  },
+  {
+    "timestamp": "2025-05-01T19:48:36.441964Z",
+    "data": {
+      "symbol": "BTCUSDT",
+      "action": "hold",
+      "confidence": 3.33,
+      "entry_price": 96566.04,
+      "stop_loss": 94634.72,
+      "take_profit": 101394.34,
+      "position_size": 3.33,
+      "timestamp": "2025-05-01T19:48:36.441852Z"
+    }
+  },
+  {
+    "timestamp": "2025-05-01T19:54:26.770012Z",
+    "data": {
+      "symbol": "BTCUSDT",
+      "action": "hold",
+      "confidence": 3.33,
+      "entry_price": 96646.51,
+      "stop_loss": 94713.58,
+      "take_profit": 101478.84,
+      "position_size": 3.33,
+      "timestamp": "2025-05-01T19:54:26.524940Z",
+      "pnl": {
+        "pnl": -0.0,
+        "percent": -0.0,
+        "current_price": 96646.5
+      }
+    }
+  },
+  {
+    "timestamp": "2025-05-01T20:04:26.447147Z",
+    "data": {
+      "symbol": "BTCUSDT",
+      "action": "hold",
+      "confidence": 4.17,
+      "entry_price": 96328.0,
+      "stop_loss": 94401.44,
+      "take_profit": 101144.4,
+      "position_size": 4.17,
+      "timestamp": "2025-05-01T20:04:26.192973Z",
+      "pnl": {
+        "pnl": 0.0,
+        "percent": 0.0,
+        "current_price": 96328.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-05-01T20:24:07.281621Z",
+    "data": {
+      "symbol": "BTCUSDT",
+      "action": "hold",
+      "confidence": 3.33,
+      "entry_price": 96763.83,
+      "stop_loss": 94828.55,
+      "take_profit": 101602.02,
+      "position_size": 3.33,
+      "timestamp": "2025-05-01T20:24:07.027984Z",
+      "pnl": {
+        "pnl": 0.0,
+        "percent": 0.0,
+        "current_price": 96763.83
+      }
+    }
+  },
+  {
+    "timestamp": "2025-05-02T15:41:46.110418Z",
+    "data": {
+      "symbol": "BTCUSDT",
+      "action": "buy",
+      "confidence": 46.0,
+      "entry_price": 97420.01,
+      "stop_loss": 95471.61,
+      "take_profit": 102291.01,
+      "position_size": 46.0,
+      "timestamp": "2025-05-02T15:41:44.579872Z",
+      "pnl": {
+        "pnl": -0.0,
+        "percent": -0.0,
+        "current_price": 97420.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-05-02T15:49:09.252525Z",
+    "data": {
+      "symbol": "BTCUSDT",
+      "action": "sell",
+      "confidence": 14.0,
+      "entry_price": 97468.26,
+      "stop_loss": 95518.89,
+      "take_profit": 102341.67,
+      "position_size": 14.0,
+      "timestamp": "2025-05-02T15:49:08.538626Z",
+      "pnl": {
+        "pnl": -0.0,
+        "percent": -0.0,
+        "current_price": 97468.25
+      }
+    }
+  },
+  {
+    "timestamp": "2025-05-03T00:11:05.324610",
+    "data": {
+      "entry_price": 50000,
+      "position_size": 100,
+      "symbol": "BTCUSDT",
+      "signal": "buy",
+      "timeframe": "1h",
+      "confidence": 0.0,
+      "summary": "[LLM summary failed: Error code: 404 - {'error': {'message': 'The model `gpt-4` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}]",
+      "pnl": {
+        "pnl": 94.06,
+        "percent": 94.06,
+        "current_price": 97027.69
+      }
+    }
+  },
+  {
+    "timestamp": "2025-05-03T00:11:22.373151",
+    "data": {
+      "entry_price": 50000,
+      "position_size": 100,
+      "symbol": "BTCUSDT",
+      "signal": "buy",
+      "timeframe": "1h",
+      "confidence": 0.0,
+      "summary": "[LLM summary failed: Error code: 404 - {'error': {'message': 'The model `gpt-4` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}]",
+      "pnl": {
+        "pnl": 94.06,
+        "percent": 94.06,
+        "current_price": 97027.69
+      }
+    }
+  },
+  {
+    "timestamp": "2025-05-03T00:11:29.648006",
+    "data": {
+      "entry_price": 50000,
+      "position_size": 100,
+      "symbol": "BTCUSDT",
+      "signal": "buy",
+      "timeframe": "1h",
+      "confidence": 0.0,
+      "summary": "[LLM summary failed: Error code: 404 - {'error': {'message': 'The model `gpt-4` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}]",
+      "pnl": {
+        "pnl": 94.06,
+        "percent": 94.06,
+        "current_price": 97027.69
+      }
+    }
+  },
+  {
+    "timestamp": "2025-05-03T00:24:48.391687",
+    "data": {
+      "entry_price": 50000,
+      "position_size": 100.0,
+      "confidence": 5.0,
+      "result": "loss",
+      "capital": 990.0
+    }
+  },
+  {
+    "timestamp": "2025-05-03T00:24:48.617328",
+    "data": {
+      "entry_price": 50000,
+      "position_size": 100.0,
+      "confidence": 5.0,
+      "result": "loss",
+      "capital": 990.0,
+      "symbol": "BTCUSDT",
+      "signal": "buy",
+      "timeframe": "1h",
+      "pnl": {
+        "pnl": 94.33,
+        "percent": 94.33,
+        "current_price": 97166.25
+      }
+    }
+  }
+]

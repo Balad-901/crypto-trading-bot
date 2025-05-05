@@ -1,0 +1,58 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>📊 Bot Dashboard</title>
+    <style>
+        body { font-family: sans-serif; margin: 40px; background: #f8f8f8; }
+        h1 { color: #444; }
+        .section { margin-bottom: 30px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+        th { background: #eee; }
+        .win { background: #d4edda; }
+        .loss { background: #f8d7da; }
+    </style>
+</head>
+<body>
+    <h1>📊 God Mode Trading Bot Dashboard</h1>
+
+    <div class="section">
+        <h2>Last 10 Decisions</h2>
+        <table>
+            <tr><th>Symbol</th><th>Action</th><th>Conf</th><th>LLM Summary</th></tr>
+            {% for d in decisions %}
+            <tr>
+                <td>{{ d.data.symbol }}</td>
+                <td>{{ d.data.result.action }}</td>
+                <td>{{ d.data.result.confidence }}%</td>
+                <td>{{ d.data.result.details.llm_summary }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Last 10 Results</h2>
+        <table>
+            <tr><th>Result</th><th>PNL</th></tr>
+            {% for r in results %}
+            <tr class="{{ 'win' if r.result == 'win' else 'loss' }}">
+                <td>{{ r.result }}</td>
+                <td>${{ r.pnl }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Cooldown Status</h2>
+        <pre>{{ cooldown | tojson(indent=2) }}</pre>
+    </div>
+
+    <div class="section">
+        <h2>Source Weights</h2>
+        <pre>{{ weights | tojson(indent=2) }}</pre>
+    </div>
+</body>
+</html>

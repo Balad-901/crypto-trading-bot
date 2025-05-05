@@ -1,0 +1,7 @@
+INFO:     127.0.0.1:49922 - "POST /telegram HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49925 - "POST /telegram HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54451 - "GET /api/decisions HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54453 - "GET /api/trades HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54455 - "GET /api/sentiment HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54459 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54460 - "GET / HTTP/1.1" 404 Not Found

@@ -1,0 +1,14 @@
+from fastapi import FastAPI
+from dashboard.api import router as dashboard_router
+
+app = FastAPI()
+
+app.include_router(dashboard_router, prefix="/dashboard")
+
+@app.get("/")
+def home():
+    return {"message": "Crypto Trading Bot is live"}
+
+from webhook.handler import router as webhook_router
+app.include_router(webhook_router, prefix="/webhook")
+

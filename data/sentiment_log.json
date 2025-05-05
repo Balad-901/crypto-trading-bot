@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2025-04-25T17:48:06.909782",
+    "avg_sentiment": {
+      "twitter": 0.089,
+      "reddit": 0.051,
+      "news": 0.023
+    },
+    "volatility": {
+      "twitter": 0.37,
+      "reddit": 0.175,
+      "news": 0.143
+    }
+  },
+  {
+    "timestamp": "2025-04-25T17:51:43.417413",
+    "avg_sentiment": {
+      "twitter": 0.089,
+      "reddit": 0.022,
+      "news": 0.023
+    },
+    "volatility": {
+      "twitter": 0.37,
+      "reddit": 0.049,
+      "news": 0.143
+    }
+  },
+  {
+    "timestamp": "2025-04-25T17:54:06.882448",
+    "avg_sentiment": {
+      "twitter": 0.089,
+      "reddit": 0.022,
+      "news": 0.007
+    },
+    "volatility": {
+      "twitter": 0.37,
+      "reddit": 0.049,
+      "news": 0.142
+    }
+  }
+]

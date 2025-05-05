@@ -1,0 +1,78 @@
+{
+  "twitter": [
+    {
+      "text": "Bitcoin is pumping hard today!",
+      "sentiment": -0.187
+    },
+    {
+      "text": "Not sure if this rally will last.",
+      "sentiment": -0.26
+    },
+    {
+      "text": "Ethereum showing strong support levels.",
+      "sentiment": 0.182
+    },
+    {
+      "text": "Market seems nervous about upcoming regulations.",
+      "sentiment": -0.276
+    },
+    {
+      "text": "Just bought more BTC. Feeling bullish.",
+      "sentiment": 0.021
+    }
+  ],
+  "reddit": [
+    {
+      "text": "Sol Games: Pioneering Decentralized Crypto Casino on Solana!",
+      "sentiment": -0.431
+    },
+    {
+      "text": "Fed ends Crypto Crackdown, SUI leads L1s, AI coins rebound",
+      "sentiment": -0.391
+    },
+    {
+      "text": "Buy Signal Stacks USD",
+      "sentiment": 0.342
+    },
+    {
+      "text": "SHORT-TERM LOAN REQUEST",
+      "sentiment": -0.285
+    },
+    {
+      "text": "Battle of the Three Kingdoms launching next week",
+      "sentiment": 0.017
+    }
+  ],
+  "news": [
+    {
+      "text": "Bitcoin ETF approval sends BTC surging!",
+      "sentiment": -0.147
+    },
+    {
+      "text": "Ethereum Merge successful!",
+      "sentiment": 0.343
+    },
+    {
+      "text": "SEC cracks down on major exchanges.",
+      "sentiment": -0.112
+    },
+    {
+      "text": "New ATH for Solana after partnerships",
+      "sentiment": -0.222
+    },
+    {
+      "text": "Crypto market braces for Fed decision",
+      "sentiment": -0.071
+    }
+  ],
+  "avg_sentiment": {
+    "twitter": -0.104,
+    "reddit": -0.15,
+    "news": -0.042
+  },
+  "volatility": {
+    "twitter": 0.458,
+    "reddit": 0.773,
+    "news": 0.565
+  }
+}
